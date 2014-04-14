@@ -7,9 +7,9 @@ Tasks to be done :
 
 PARSER
 1) Implement parser for parsing the input commands
-    ( Should handle routines for | , > )
+    ( Should handle routines for | , >
 2) Structure the input into command_name, argumentlist
-3) Should handle string args ( ex: grep )
+3) Should handle string args ( ex: grep )\n
 
 MAIN
 1) Get the user name and the machine name for displaying at the command prompt
