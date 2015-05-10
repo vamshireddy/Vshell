@@ -1,7 +1,7 @@
 Vshell
 ======
 
-Interactive shell written in C.
+Interactive shell written in C. ( Under development )
 
 * Features 
 1. Process management.
